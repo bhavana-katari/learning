@@ -1,0 +1,3 @@
+Hello git! 
+im learning git and github 
+git is a version control
